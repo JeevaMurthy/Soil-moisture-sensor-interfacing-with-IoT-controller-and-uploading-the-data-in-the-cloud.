@@ -272,6 +272,7 @@ void loop() {
 
 # CIRCUIT DIAGRAM:
 ![image](https://github.com/JeevaMurthy/Soil-moisture-sensor-interfacing-with-IoT-controller-and-uploading-the-data-in-the-cloud./assets/147222117/7f400403-4ee1-49ab-a59e-e6b38f798cf7)
+![image](https://github.com/JeevaMurthy/Soil-moisture-sensor-interfacing-with-IoT-controller-and-uploading-the-data-in-the-cloud./assets/147222117/e7390962-38d3-4fc8-a3e8-d2f2eaa2931c)
 
 # OUTPUT:
 ```
